@@ -1,0 +1,154 @@
+.main-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 90px;
+    background-color: #F4F3F6;
+    z-index: 1000;
+}
+
+body {
+    background-color: #F4F3F6;
+}
+
+.tt {
+    background-color: #411E0F;
+    color: white;
+    width: 60%;
+    height: 30%;
+    border: 1px solid #411E0F;
+    border-radius: 2px;
+}
+
+.hi {
+    font-size: 70px;
+    margin-left: 80px;
+}
+
+.kk {
+    width: 10%;
+    height: 50%;
+}
+
+.button {
+    color: black;
+    background-color: #B3C2FF;
+    border: 1px solid #B3C2FF;
+    border-radius: 10px;
+    width: 120px;
+    height: 40px;
+    font-size: 16px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.di {
+    background-color: #DDDEF8;
+    border: 1px solid #DDDEF8;
+    border-radius: 10px;
+}
+
+.foot {
+    background-color: #A9C3FF;
+    border-radius: 5px;
+    border-color: #A9C3FF;
+    width: 30%;
+    height: 30px;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.emil {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    background-color: #A9C3FF;
+}
+
+.cord-skills {
+    width: 9%;
+    height: 180px;
+    border: solid white;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.gap-skills {
+    width: 3.8%;
+}
+
+.career {
+    border-radius: 8px;
+    border: solid #A9C3FF;
+}
+
+.project-w {
+    width: 25.28%;
+    height: 50px;
+}
+
+.div-2 {
+    background-color: #E7E9FF;
+    border: 1px solid #D9DEFF;
+    border-radius: 18px;
+    height: 300px;
+}
+
+.footer-logo {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #A9C3FF;
+}
+
+.hero {
+    width: 100%;
+    min-height: 235px;
+    padding: 40px 6%;
+    margin-bottom: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    background-color: #e7e9ff;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.div-c-1 {
+    background-color: #e7e9ff;
+    border-radius: 8px;
+    border: solid #e7e9ff;
+}
+
+.info-item {
+    align-items: center;
+    margin: 18px 0;
+    padding: 13px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, .82);
+}
+
+.contact-form {
+    border-radius: 14px;
+    border: 2px solid #d7dcff;
+    background: #f0f1ff;
+}
+.submit-btn {
+      border: 0;
+      padding: 12px 25px;
+      border-radius: 22px;
+      background-color: #b8c5ff;
+      color: #101018;
+      font: bold 16px Georgia, serif;
+      margin-left: 30px;
+      margin-top: 20px;
+    }
+    .input-li{
+        border-radius: 8px;
+        height: 32px;
+        border-color: #B3C2FF;
+    }
